@@ -1,7 +1,7 @@
-import { Helmet } from 'react-helmet-async'
+﻿import { Helmet } from 'react-helmet-async'
 import { useLang } from '../i18n/LanguageContext'
 
-const SITE_URL = 'https://salzgitter-redesign.vercel.app'
+const SITE_URL = 'https://salzgitter-ag.vercel.app'
 
 export default function SEO({ page = 'home', jsonLd = null }) {
   const { lang, t, lp } = useLang()
@@ -46,7 +46,7 @@ export const ORGANIZATION_JSON_LD = {
   contactPoint: {
     '@type': 'ContactPoint',
     telephone: '+49 5341 21-01',
-    email: 'impressum@salzgitter-ag.com',
+    email: 'impressum@salzgitter-ag.de',
     contactType: 'corporate',
   },
   sameAs: ['https://www.salzgitter-ag.com', 'https://www.linkedin.com/company/salzgitter-ag'],

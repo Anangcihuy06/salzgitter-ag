@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://salzgitter-redesign.vercel.app/de</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://salzgitter-redesign.vercel.app/de"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://salzgitter-redesign.vercel.app/en"/>
+    <loc>https://salzgitter-ag.vercel.app/de</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://salzgitter-ag.vercel.app/de"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salzgitter-ag.vercel.app/en"/>
   </url>
   <url>
-    <loc>https://salzgitter-redesign.vercel.app/en</loc>
-    <xhtml:link rel="alternate" hreflang="de" href="https://salzgitter-redesign.vercel.app/de"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://salzgitter-redesign.vercel.app/en"/>
+    <loc>https://salzgitter-ag.vercel.app/en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://salzgitter-ag.vercel.app/de"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salzgitter-ag.vercel.app/en"/>
   </url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/group</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/group</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/business</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/business</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/sustainability</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/sustainability</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/strategy</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/strategy</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/investors</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/investors</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/press</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/press</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/contact</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/contact</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/de/legal/impressum</loc></url>
-  <url><loc>https://salzgitter-redesign.vercel.app/en/legal/impressum</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/group</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/group</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/business</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/business</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/sustainability</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/sustainability</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/strategy</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/strategy</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/investors</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/investors</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/press</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/press</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/contact</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/contact</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/de/legal/impressum</loc></url>
+  <url><loc>https://salzgitter-ag.vercel.app/en/legal/impressum</loc></url>
 </urlset>
 
 

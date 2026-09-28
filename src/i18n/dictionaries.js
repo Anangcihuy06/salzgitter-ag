@@ -1,4 +1,4 @@
-export const DEFAULT_LANG = 'de'
+﻿export const DEFAULT_LANG = 'de'
 export const LANGS = ['de', 'en']
 
 const CDN = '/assets'
@@ -360,8 +360,8 @@ const de = {
     kontakt: {
       tag: 'Ansprechpartner',
       title: 'Pressekontakt',
-      body: 'Für Medienanfragen erreichen Sie uns per E-Mail an impressum@salzgitter-ag.com oder telefonisch unter +49 5341 21-01. Der Medienservice stellt Bildmaterial, Downloads und den Terminkalender bereit.',
-      email: 'impressum@salzgitter-ag.com',
+      body: 'Für Medienanfragen erreichen Sie uns per E-Mail an impressum@salzgitter-ag.de oder telefonisch unter +49 5341 21-01. Der Medienservice stellt Bildmaterial, Downloads und den Terminkalender bereit.',
+      email: 'impressum@salzgitter-ag.de',
       phone: '+49 5341 21-01',
     },
     stil: {
@@ -380,7 +380,7 @@ const de = {
     info: {
       address: 'Salzgitter AG\nEisenhüttenstraße 99\n38239 Salzgitter\nGermany',
       phone: '+49 5341 21-01',
-      email: 'impressum@salzgitter-ag.com',
+      email: 'impressum@salzgitter-ag.de',
       departments: 'Fachabteilungen: Für produkt- und bereichsspezifische Anfragen vermittelt Ihnen unsere Zentrale den richtigen Ansprechpartner. Produktanfragen zu Flachstahl, Röhren und Handel nehmen unsere Vertriebsgesellschaften direkt entgegen.',
       visit: 'Anfahrt: Der Standort Salzgitter ist über die A39 erreichbar, die nächstgelegenen Bahnhöfe sind Salzgitter-Ringelheim und Salzgitter-Bad.',
     },
@@ -389,7 +389,7 @@ const de = {
     hero: { tag: 'Rechtliches', title: 'Impressum & Datenschutz', sub: 'Rechtliche Hinweise zur Website der Salzgitter AG.' },
     impressum: {
       title: 'Impressum',
-      body: 'Salzgitter AG\nEisenhüttenstraße 99\n38239 Salzgitter\nGermany\n\nTelefon: +49 5341 21-01\nTelefax: +49 5341 21-2727\nE-Mail: impressum@salzgitter-ag.com\n\nVertreten durch den Vorstand: Gunnar Groebler (Vorsitzender), Birgit Dietze, Birgit Potrafki.\n\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a UStG: DE 116876139.\n\nKonzept und Realisierung dieser Demo: unabhängiges Redesign-Konzept, nicht Teil der offiziellen Salzgitter-Präsenz.',
+      body: 'Salzgitter AG\nEisenhüttenstraße 99\n38239 Salzgitter\nGermany\n\nTelefon: +49 5341 21-01\nTelefax: +49 5341 21-2727\nE-Mail: impressum@salzgitter-ag.de\n\nVertreten durch den Vorstand: Gunnar Groebler (Vorsitzender), Birgit Dietze, Birgit Potrafki.\n\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a UStG: DE 116876139.\n\nKonzept und Realisierung dieser Demo: unabhängiges Redesign-Konzept, nicht Teil der offiziellen Salzgitter-Präsenz.',
     },
     datenschutz: {
       title: 'Datenschutz',
@@ -731,8 +731,8 @@ const en = {
     kontakt: {
       tag: 'Contacts',
       title: 'Press contact',
-      body: 'For media inquiries, please email impressum@salzgitter-ag.com or call +49 5341 21-01. Our media service provides images, downloads and the event calendar.',
-      email: 'impressum@salzgitter-ag.com',
+      body: 'For media inquiries, please email impressum@salzgitter-ag.de or call +49 5341 21-01. Our media service provides images, downloads and the event calendar.',
+      email: 'impressum@salzgitter-ag.de',
       phone: '+49 5341 21-01',
     },
     stil: {
@@ -751,7 +751,7 @@ const en = {
     info: {
       address: 'Salzgitter AG\nEisenhüttenstraße 99\n38239 Salzgitter\nGermany',
       phone: '+49 5341 21-01',
-      email: 'impressum@salzgitter-ag.com',
+      email: 'impressum@salzgitter-ag.de',
       departments: 'Departments: For product- and division-specific inquiries, our switchboard will connect you with the right contact. Product inquiries regarding flat steel, tubes and trading are handled directly by our sales companies.',
       visit: 'Directions: The Salzgitter site is accessible via the A39; the nearest railway stations are Salzgitter-Ringelheim and Salzgitter-Bad.',
     },
@@ -760,7 +760,7 @@ const en = {
     hero: { tag: 'Legal', title: 'Legal Notice & Privacy', sub: 'Legal information for the Salzgitter AG website.' },
     impressum: {
       title: 'Legal Notice',
-      body: 'Salzgitter AG\nEisenhüttenstraße 99\n38239 Salzgitter\nGermany\n\nPhone: +49 5341 21-01\nFax: +49 5341 21-2727\nEmail: impressum@salzgitter-ag.com\n\nRepresented by the Executive Board: Gunnar Groebler (Chairman), Birgit Dietze, Birgit Potrafki.\n\nVAT identification number pursuant to § 27 a UStG: DE 116876139.\n\nConcept and implementation of this demo: independent redesign concept, not part of the official Salzgitter presence.',
+      body: 'Salzgitter AG\nEisenhüttenstraße 99\n38239 Salzgitter\nGermany\n\nPhone: +49 5341 21-01\nFax: +49 5341 21-2727\nEmail: impressum@salzgitter-ag.de\n\nRepresented by the Executive Board: Gunnar Groebler (Chairman), Birgit Dietze, Birgit Potrafki.\n\nVAT identification number pursuant to § 27 a UStG: DE 116876139.\n\nConcept and implementation of this demo: independent redesign concept, not part of the official Salzgitter presence.',
     },
     datenschutz: {
       title: 'Privacy',
